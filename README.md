@@ -1,6 +1,6 @@
 **Installing Unified Factory Widget Module**
 
-Download latast version from [link](https://github.com/UnifiedFactory/AppJoomlaModule/archive/1.0.1.zip)
+Download latest version from [link](https://github.com/UnifiedFactory/AppJoomlaModule/archive/1.0.1.zip)
 
 1. Open administration panel and go to Extensions > Manage > Install.
 
