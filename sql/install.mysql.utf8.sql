@@ -1,6 +1,6 @@
 CREATE TABLE IF NOT EXISTS `#__ufWidget` (
 	`id` INT(10) NOT NULL AUTO_INCREMENT,
-	`license` text NOT NULL,
+	`script` text NOT NULL,
 	`lang` VARCHAR(25) NOT NULL,
 
   PRIMARY KEY (`id`)
