@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.5" client="site" method="upgrade">
+	<name>Unified Factory Widget</name>
+	<creationDate>01.06.17</creationDate>
+	<author>Unified Factory</author>
+	<authorEmail>p.dabrowski@unifiedfactory.com</authorEmail>
+	<authorUrl>http://unifiedfactory.com</authorUrl>
+	<copyright>A copyright</copyright>
+	<license>Copyright 2017, Unified Factory, All rights reserved.</license>
+	<version>1.0.1</version>
+	<description></description>
+
+	<files>
+		<filename>index.html</filename>
+		<filename module="mod_module">mod_module.php</filename>
+		<folder>tmpl</folder>
+		<folder>language</folder>
+		<filename>mod_module.xml</filename>
+	</files>
+
+	<config>
+		<!--<fields name="params">
+			<fieldset name="basic">
+				<field cols="5" name="widget_license" type="text" default="" label="Widget license" description="Widget api link" size="60"/>
+			</fieldset>
+		</fields>-->
+
+		<fields name="params">
+			<fieldset name="basic">
+				<field name="widget_script" type="textarea" default="" label="Widget license" size="60"/>
+			</fieldset>
+		</fields>
+	</config>
+
+<!--	<install>
+		<sql>
+			<file driver="mysql" charset="utf8">sql/mysql/install.mysql.utf8.sql</file>
+		</sql>
+	</install>
+
+	<uninstall>
+		<sql>
+			<file driver="mysql" charset="utf8">sql/mysql/uninstall.mysql.utf8.sql</file>
+		</sql>
+	</uninstall>-->
+</extension>
