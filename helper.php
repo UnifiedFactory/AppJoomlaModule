@@ -1,5 +1,14 @@
 <?php
 
+/**
+ * @package    Unified Factory Widget
+ *
+ * @author     p.dabrowski@unifiedfactory.com
+ * @copyright  Unified Factory
+ * @license    GNU General Public License version 2 or later; see LICENSE.txt
+ * @link       https://github.com/UnifiedFactory/AppJoomlaModule
+ */
+
 defined('_JEXEC') or die;
 
 $db    = JFactory::getDbo();

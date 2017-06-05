@@ -1,11 +1,11 @@
 <?php
 /**
- * @package    module
+ * @package    Unified Factory Widget
  *
- * @author     pawel <your@email.com>
- * @copyright  A copyright
+ * @author     p.dabrowski@unifiedfactory.com
+ * @copyright  Unified Factory
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
- * @link       http://your.url.com
+ * @link       https://github.com/UnifiedFactory/AppJoomlaModule
  */
 
 defined('_JEXEC') or die;
