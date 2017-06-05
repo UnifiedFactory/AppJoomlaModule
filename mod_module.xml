@@ -18,6 +18,10 @@
 		<filename>mod_module.xml</filename>
 	</files>
 
+	<updateservers>
+		<server type="extension" priority="1" name="AppJoomlaModule">https://github.com/UnifiedFactory/AppJoomlaModule</server>
+	</updateservers>
+
 	<config>
 		<!--<fields name="params">
 			<fieldset name="basic">
@@ -27,7 +31,7 @@
 
 		<fields name="params">
 			<fieldset name="basic">
-				<field name="widget_script" type="textarea" default="" label="Widget license" size="60"/>
+				<field name="widget_script" type="textarea" default="" label="Widget script" rows="15" cols="24"/>
 			</fieldset>
 		</fields>
 	</config>
