@@ -4,7 +4,7 @@
  *
  * @author     p.dabrowski@unifiedfactory.com
  * @copyright  Unified Factory
- * @license    GNU General Public License version 2 or later; see LICENSE.txt
+ * @license    GNU General Public License version 3; see LICENSE.txt
  * @link       https://github.com/UnifiedFactory/AppJoomlaModule
  */
 
